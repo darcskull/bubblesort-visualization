@@ -1,0 +1,10 @@
+D:\c# uni3\bubblesort\bubblesort\bubblesort\bin\Debug\bubblesort.exe.config
+D:\c# uni3\bubblesort\bubblesort\bubblesort\bin\Debug\bubblesort.exe
+D:\c# uni3\bubblesort\bubblesort\bubblesort\bin\Debug\bubblesort.pdb
+D:\c# uni3\bubblesort\bubblesort\bubblesort\obj\Debug\bubblesort.Form1.resources
+D:\c# uni3\bubblesort\bubblesort\bubblesort\obj\Debug\bubblesort.Properties.Resources.resources
+D:\c# uni3\bubblesort\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.GenerateResource.cache
+D:\c# uni3\bubblesort\bubblesort\bubblesort\obj\Debug\bubblesort.exe
+D:\c# uni3\bubblesort\bubblesort\bubblesort\obj\Debug\bubblesort.pdb
+D:\c# uni3\bubblesort\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.AssemblyReference.cache
+D:\c# uni3\bubblesort\bubblesort\bubblesort\obj\Debug\bubblesort.csproj.CoreCompileInputs.cache
